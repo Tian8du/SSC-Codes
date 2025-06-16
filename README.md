@@ -1,2 +1,2 @@
-# SSC-Codes
-Codes and other materials for SSC
+# SNCI-Codes
+Codes and other materials for SNCI
