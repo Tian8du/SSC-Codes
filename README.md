@@ -1,6 +1,6 @@
 ## 📢 Related Publication
 
-This repository is associated with our paper:
+This repository is associated with my paper:
 
 **“Spatially-informed interpolation for reconstructing lake area time series using semantic neighborhood correlation”**  
 published in *Scientific Reports* (Springer Nature), 2025.  
