@@ -15,9 +15,11 @@ If you find this repository helpful for your research or applications, please co
   title={Spatially-informed interpolation for reconstructing lake area time series using semantic neighborhood correlation},
   author={Liu, Chen},
   journal={Scientific Reports},
-  volume={},
-  pages={},
+  volume={15},
+  number={1},
+  pages={24787},
   year={2025},
   publisher={Springer Nature},
   doi={10.1038/s41598-025-09410-3}
 }
+
